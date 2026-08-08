@@ -29,3 +29,19 @@ e.g press shhift + double colun*3
 
 # print(20,23)
 
+# ex 
+# name = input("Enter something: ")
+
+# if we take input so by default its data type show str for all
+# print(type(name), name)    
+
+
+# if you want to store i their type so mention thier in front of input
+
+name = input("Enter your name: ")
+age = int(input("Enter your ang: "))
+height = float(input("Enter you height: "))
+
+print(type(name), name)
+print(type(age), age)
+print(type(height), height)
