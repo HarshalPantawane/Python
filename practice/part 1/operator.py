@@ -60,6 +60,7 @@ a + b  # a and b is operands, + is operator
 
 a = 23
 b = 24
+c = 10
 
 # print("ans is : ", a and b)   # both should true for true
 # print("ans is : ", a or b)    # both should false for false
