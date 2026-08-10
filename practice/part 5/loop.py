@@ -178,6 +178,8 @@
 #     print("end")     # this is optinal no need if
     
 
+
+
 # # 1. print th element of the following  list using a loop.
 # num = [1,4,9,16,25,36,64,81,100]
 # for val in num:
@@ -200,7 +202,7 @@
 #     print("not found")     
 
 
-
+###########################################
 ## range()
 # range is functions return a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stop before a specified number.
 
@@ -239,3 +241,16 @@
 ## 4 print even num 
 # for i in range(2, 100, 2):
 #     print(i)  
+
+
+####################################################
+# pass statement
+# pass is a null statement that does nothing. it is used as a for future code.
+
+# syntax
+#   for el range(10):
+#       pass
+
+for el in range(5):
+    pass              # if dont want to do enything
+print("ok")    
